@@ -1,1 +1,1 @@
-Writing a scrpit that prints current absolute working directory
+Script to list my current directory
