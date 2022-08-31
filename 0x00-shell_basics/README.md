@@ -1,1 +1,1 @@
-Script that changes the working directory to the previous one
+List all contents with hidden files
