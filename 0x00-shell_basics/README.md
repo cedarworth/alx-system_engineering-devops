@@ -1,1 +1,1 @@
-Display long format directory
+display hidden files in long format
