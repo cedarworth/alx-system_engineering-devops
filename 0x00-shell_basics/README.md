@@ -1,1 +1,1 @@
-display hidden files in long format
+Display long format, hidden files and IDs
