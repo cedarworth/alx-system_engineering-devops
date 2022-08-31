@@ -1,1 +1,1 @@
-List all contents with hidden files
+Print type of file
