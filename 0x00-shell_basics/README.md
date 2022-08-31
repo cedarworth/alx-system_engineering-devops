@@ -1,1 +1,1 @@
-Display long format, hidden files and IDs
+Script that create directory in the tmp dir
