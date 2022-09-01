@@ -1,1 +1,1 @@
-Script that moves all files beginning with an uppercase
+Script that deletes all files havinf tilda symbol
