@@ -1,1 +1,1 @@
-Script that deletes all files havinf tilda symbol
+Script that create a tree dir
