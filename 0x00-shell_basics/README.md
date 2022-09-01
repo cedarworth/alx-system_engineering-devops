@@ -1,1 +1,1 @@
-Script that create a tree dir
+Command that lists all files and dir separated by commas
