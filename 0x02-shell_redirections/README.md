@@ -1,1 +1,1 @@
-Write a shell script that creates a file named exactly the stated file name
+Write a script that writes into the file ls_cwd_content the result of the command ls -la
