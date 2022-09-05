@@ -1,0 +1,12 @@
+In most Unix-like systems, it is possible to create a special type of file called a named
+
+pipe. Named pipes are used to create a connection between two processes and can be
+
+used just like other types of files. They are not that popular, but they’re good to know
+
+about.
+
+There is a common programming architecture called client-server, which can make use of
+
+a communication method such as named pipes, as well as other kinds of interprocess
+communication such as network connections.
