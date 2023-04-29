@@ -48,4 +48,4 @@ frontend cedarworth-frontend-https
 backend cedarworth-backend
         balance roundrobin
         server 150477-web-01 18.209.178.7:80 check
-        server 150477-web-02 100.26.254.134:80 check
+        server 150477-web-02 35.175.65.152:80 check
